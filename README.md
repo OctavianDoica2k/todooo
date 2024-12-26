@@ -17,8 +17,8 @@ Here are the installation and running instructions for the Task Management appli
  - The built files will be in the **_dist_** directory.
 
 **Additional Scripts**
-    **_npm run preview_** - Preview the production build locally
-    **_npm run lint_** - Run ESLint to check code quality
+ - **_npm run preview_** - Preview the production build locally
+ - **_npm run lint_** - Run ESLint to check code quality
 
 **System Requirements**
  - Node.js 18.0 or higher
@@ -30,7 +30,7 @@ That's all you need to get started! The application uses Vite's development serv
 ---------------------------------------------------------------------------------------------------------------------------------------
 Here's a comprehensive breakdown of the Task Management Application:
 
-**Core Features**
+_**Core Features**_
 
 **Task Management**
 
